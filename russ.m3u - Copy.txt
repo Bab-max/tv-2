@@ -63,14 +63,6 @@ http://ott-cdn.ucom.am/s77/index.m3u8
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 
 
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1-pl9" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 +9 (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
-
 
 
 
