@@ -92,5 +92,10 @@ https://streaming.televizor-24-tochka.ru/live/748.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/4.m3u8
 
+#EXTINF:-1 tvg-id="Spas.ru@SD",Spas (576p)
+https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Спас Ⓢ" tvg-logo="https://i.imgur.com/A6Cqsom.jpeg" tvg-id="TelekanalSpas.ru" group-title="Russia",Спас Ⓢ
+http://iptv.ktkru.ru:8012/index.m3u8
 
 
