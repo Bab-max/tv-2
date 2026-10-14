@@ -90,3 +90,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 #EXTINF:-1 tvg-id="Sibir24.ru@NVS",Сибирь 24 (Новосибирск) (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="Zvezda.ru@SD",Звезда
+https://streaming.televizor-24-tochka.ru/live/748.m3u8
+
